@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Introducción
 linkTitle: StataNomics
 author: T. Hall, T. Monk, J. Dittmar, LSE
 ---
