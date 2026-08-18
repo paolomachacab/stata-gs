@@ -1,7 +1,7 @@
 ---
 title: Introducción
 linkTitle: StataNomics
-author: P. Machaca-Beltran, UMSA
+author: P. Machaca, UMSA
 ---
 Quantitative data analysis is a cornerstone of public policy research. Stata is a general-purpose statistical software used for data manipulation, visualization, and analysis. It is powerful and easy to use. Stata is amongst the most used statistical packages by researchers and public policy practitioners. 
 
